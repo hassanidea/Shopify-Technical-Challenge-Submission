@@ -1,0 +1,6 @@
+Question 1:
+a) There exists outliers in the order amount which affect the average order amount in the order amount. To achieve a better calculation is to use the total items in the calculation. 
+First add all the total items in the data and then get the total order amounts for the month and divide it by the total number of items.
+b) Since each shop sells only one model of sneakers if we only calculate the AOV for all the shops it would not make sense for the shops that sell lower priced sneakers or vice versa.
+Therefore, a good metric to be used is The Average Order value for each shop.
+c)Please check 
